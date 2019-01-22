@@ -1,3 +1,30 @@
 Hola soy un archivo
 
 mas info
+
+
+git init
+
+git add filename
+
+git add -A
+
+git commit -m "hola commit"
+
+
+git remote add origin url
+
+git push origin master
+
+git pull origin master
+
+git config --global user.name "itpjho"
+
+git config --global user.email itpjho@gmail.com
+
+
+git clone https://github.com/luma77/share-files.git
+
+git checkout develop
+
+git branch
